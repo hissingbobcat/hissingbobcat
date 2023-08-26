@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hissingbobcat
-- 👀 I’m interested in ...building
-- 🌱 I’m currently learning ... api calls
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @hissingbobcat.
 - 📫 How to reach me ... malacandra@tutanota.com
 
 <!---
